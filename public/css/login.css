@@ -1,0 +1,33 @@
+  
+
+body{
+    background-color: #75A5D6;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-login {
+    flex-basis: 450px;
+}
+
+.login-card .card-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.8rem;
+    background-color: #15385D;
+    color: white;
+}
+
+.login-card .card-footer {
+    display: flex;
+    justify-content: flex-end;
+    background-color: #15385D;
+}
+
+.card-footer .btn{
+    background-color: #EF7A20;
+    border-color: black;
+}
