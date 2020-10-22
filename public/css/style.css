@@ -1,0 +1,33 @@
+
+#quadroLogin{
+    margin: auto;
+    width: 500px;
+    height: auto;
+    padding: 30px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    background-color: #C4C4C4;    
+}
+
+#botoesLogin{
+    margin: 20px 150px;
+}
+
+.quadroImagem {
+    width: fit-content;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+
+.imagemPadrao
+{
+    height: 150px;
+}
+
+.pad{
+    padding: 10px;
+}
+
+.labelPadrao{
+    font-weight: bold;
+}
